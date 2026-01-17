@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-95yrqfr6"",
-  ""goal"": ""dataset sampler for routing"",
-  ""language"": ""rust"",
-  ""template"": ""rust-cli""
+    "name":  "specproj-95yrqfr6",
+    "goal":  "dataset sampler for routing",
+    "language":  "rust",
+    "template":  "rust-cli"
 }
